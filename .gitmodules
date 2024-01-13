@@ -1,3 +1,6 @@
 [submodule "ConvergeCast_Server"]
 	path = ConvergeCast_Server
 	url = https://github.com/Al3x4ndru1/ConvergeCast_Server.git
+[submodule "ConvergeCast_Client"]
+	path = ConvergeCast_Client
+	url = https://github.com/Al3x4ndru1/ConvergeCast_Client.git
