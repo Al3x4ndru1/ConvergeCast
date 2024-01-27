@@ -15,7 +15,7 @@
 
 # Memory management
 
-![](figs/Screenshot%20from%202022-08-04%2019-47-16.png)
+<center><figure><img src="./figs/Compression_Comparison.png" alt="Compressions_Comparison.png"><figcaption>Compressions Comparison</figcaption></figure></center>    
 
 -----------------------------------------------
 
@@ -24,7 +24,7 @@
 ## Camera Network
 
 
-![](figs/camera_network)
+<center><figure><img src="./figs/camera_network.png" alt="Camera_Newtwork.png"><figcaption>Raspberry Camera Network Monitoring</figcaption></figure></center>    
 
 This is the first version of the project that works. For a 640x480 video with 45~50 fps video the network packets requier is 98 maximum.
 
@@ -36,7 +36,7 @@ The amount of packets can be reduce at 85 ~ 87 and we can obtain a bit more fram
 
 ## 1 second of Youtube video
 
-![](figs/all_network)
+<center><figure><img src="./figs/all_network.png" alt="Raspberry_VS_Youtube_Newtwork.png"><figcaption>Raspberry Camera and Youtube Network Monitoring</figcaption></figure></center>    
 
 The black line is network packets require for a 720x480 with 45 fps video on Youtube for just 1 second watching.
 
@@ -714,8 +714,6 @@ a=$get_network
 echo "$a"
 ```
 
-
-
 This bash function get just the ip address of the interface wlp3s0, which is the ip address of the wide area network. We need wide area network to be able to communicate through the internet.
 
 ## Requierements
@@ -1013,5 +1011,3 @@ src="{{ url_for('static', filename='/javascript/aside/aside.js')}}"
 </body>
 </html>
 ```
-
-
