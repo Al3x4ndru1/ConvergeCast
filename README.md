@@ -36,7 +36,7 @@ The amount of packets can be reduce at 85 ~ 87 and we can obtain a bit more fram
 
 ## 1 second of Youtube video
 
-<center><figure><img src="./figs/all_network.png" alt="Raspberry_VS_Youtube_Newtwork.png"><figcaption>Raspberry Camera and Youtube Network Monitoring</figcaption></figure></center>    
+<center><figure><img src="./docs/figs/all_network.png" alt="Raspberry_VS_Youtube_Newtwork.png"><figcaption>Raspberry Camera and Youtube Network Monitoring</figcaption></figure></center>    
 
 The black line is network packets require for a 720x480 with 45 fps video on Youtube for just 1 second watching.
 
