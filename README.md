@@ -15,7 +15,7 @@
 
 # Memory management
 
-<center><figure><img src="./figs/Compression_Comparison.png" alt="Compressions_Comparison.png"><figcaption>Compressions Comparison</figcaption></figure></center>    
+<center><figure><img src="figs/Compression_Comparison.png" alt="Compressions_Comparison.png"><figcaption>Compressions Comparison</figcaption></figure></center>    
 
 -----------------------------------------------
 
