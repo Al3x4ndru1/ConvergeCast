@@ -24,7 +24,7 @@
 ## Camera Network
 
 
-<center><figure><img src="./figs/camera_network.png" alt="Camera_Newtwork.png"><figcaption>Raspberry Camera Network Monitoring</figcaption></figure></center>    
+<center><figure><img src="./docs/figs/camera_network.png" alt="Camera_Newtwork.png"><figcaption>Raspberry Camera Network Monitoring</figcaption></figure></center>    
 
 This is the first version of the project that works. For a 640x480 video with 45~50 fps video the network packets requier is 98 maximum.
 
